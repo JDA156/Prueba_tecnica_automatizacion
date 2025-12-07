@@ -13,6 +13,9 @@ La prueba fue realizada con Jupyter Notebook, con Python3 y Selenium
    python.exe -m pip install --upgrade pip
 6. Ahora si ejecutamos el comando anterior:
    pip install notebook
-7. Ya solo queda ejecutar en nuestro navergador Jupyter Notebook para abrir el script de automatización.
+7. Para abrir el Notebook de Jupiter ejecutan el siguiente comando cada que quieran abrir el libro: jupyter notebook
+8. Al abrir el Notebook de Jupyter nos vamos a la parte izquierda donde dice <New> desplegamos la lista y seleccionamos Python3
+9. Nos lleva a las celdas donde podemos escribir codigo de python pero en esta ocacion necesitamos abrir el script creado por tal razon nos vamos a el menu y seleccionamos <File> luego <Open> y buscamos nuetro Script
+10. Finalizamos con abrir el .ipynb y luego en el menu esta vez seleccionamos <Run> y <Run All Cells> y con esto deberia ejecutarse secuencuialmente todas las celdas y abrir nuestra automatizacion correctamente
    
    
