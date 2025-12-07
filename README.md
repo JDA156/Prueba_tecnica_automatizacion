@@ -1,7 +1,7 @@
 # Prueba_tecnica_automatizacion
 La prueba fue realizada con Jupyter Notebook, con Python3 y Selenium 
 1. Instalar Python3 sino se tiene instalado desde la URL "https://www.python.org/downloads/" descargar la ultima version e instalar desde el asistente
-2. Ingresar al cmd desde el buscador de Windows o con las teclar Windows+R e ingresar CMD, desde MAC ingresar a la terminal
+2. Ingresar al cmd desde el buscador de Windows o con las teclas Windows+R e ingresar CMD, desde MAC ingresar a la terminal
 3. Ingresar los siguiente comandos para verificar instalacion de python:
    python --version
    python3 --version
