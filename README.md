@@ -13,6 +13,6 @@ La prueba fue realizada con Jupyter Notebook, con Python3 y Selenium
    python.exe -m pip install --upgrade pip
 6. Ahora si ejecutamos el comando anterior:
    pip install notebook
-7. Ya solo queda ejecutar en nuestro navergador Jupyter Notebook para abrir el script de automatización
+7. Ya solo queda ejecutar en nuestro navergador Jupyter Notebook para abrir el script de automatización.
    
    
